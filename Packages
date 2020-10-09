@@ -1,0 +1,15 @@
+Package: amongushack
+Name: Among Us Hack
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: Haxss for among us
+Maintainer: 0xVo1d
+Author: 0xVo1d
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://Void122.github.io/icons/amongushack/icon@3x.png
+Filename: debs/amongushack_2.0_iphoneos-arm.deb
+Size: 90136
+MD5sum: 4190D448C49D43CB8134DAA2DE3E7C9B
+SHA1: 6C342E951893CD7D7E7FF53B6437B5A5CBA22BAF
+SHA256: 7D43FA9EB977424518195E33395A89CB2EA7630806ACD19C0452B65D74212E5B
