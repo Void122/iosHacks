@@ -1,0 +1,14 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow me on Twitter</name>
+            <url>https://twitter.com/0xVo1d</url>
+            <iconclass>glyphicon glyphicon-user</iconclass>
+        </link>
+        <link>
+            <name>My youtube</name>
+            <url>https://www.youtube.com/channel/UCQ94uOGX6HB0oPJSHJv5Jsg</url>
+            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+        </link>
+    </footerlinks>
+</repo>
